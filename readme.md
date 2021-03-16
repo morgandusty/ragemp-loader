@@ -1,5 +1,5 @@
 # СКАЧАТЬ МОЖНО ТУТ:
 
-### \[ [Download FIX](https://github.com/morgandusty/ragemp-loader/releases) \]
+### \[ [Download](https://github.com/morgandusty/ragemp-loader/releases) \]
 
 # 🐞 ПО УСТАНОВЩИКУ НЕ ПОМОГАЕМ! 🐞
